@@ -4,8 +4,10 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <router-link class="navbar-brand" to="/">
-                        <img src="../../assets/images/logo.png" alt="image">
-                        <img src="../../assets/images/black-logo.png" alt="image">
+                        <!-- <img src="../../assets/images/logo.png" alt="image"> -->
+                        <!-- <img src="../../assets/images/black-logo.png" alt="image"> -->
+                        <!-- <a style="color: #fff;font-size: 30px;"><b>WELLPAY</b></a> -->
+                        <a style="color: #000;font-size: 30px;"><b>WELLPAY</b></a>
                     </router-link>
 
                     <b-navbar-toggle target="navbarSupportedContent">
@@ -18,10 +20,10 @@
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
                                 <router-link to="/#" class="nav-link">
-                                    Home 
-                                    <i class="fas fa-chevron-down"></i>
+                                    首页 
+                                    <!-- <i class="fas fa-chevron-down"></i> -->
                                 </router-link>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <router-link to="/" class="nav-link">
                                             Home Demo - 1
@@ -45,21 +47,22 @@
                                             Home Demo - 4
                                         </router-link>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
 
                             <li class="nav-item">
                                 <router-link to="/about-us" class="nav-link">
-                                    About Us
+                                    关于我们
                                 </router-link>
                             </li>
 
                             <li class="nav-item">
-                                <router-link to="/#" class="nav-link">
-                                    Features <i class="fas fa-chevron-down"></i>
+                                <router-link to="/features-1" class="nav-link">
+                                    特色 
+                                    <!-- <i class="fas fa-chevron-down"></i> -->
                                 </router-link>
 
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <router-link to="/features-1" class="nav-link">
                                             Features Style One
@@ -71,7 +74,18 @@
                                             Features Style Two
                                         </router-link>
                                     </li>
-                                </ul>
+                                </ul> -->
+                            </li>
+                             <li class="nav-item">
+                                <router-link to="/features-2" class="nav-link">
+                                    其他产品
+                                </router-link>
+                            </li>
+
+                            <li class="nav-item">
+                                <router-link to="/contact" class="nav-link">
+                                    联系我们
+                                </router-link>
                             </li>
  
                             <li class="nav-item">
@@ -82,7 +96,7 @@
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <router-link to="/about-us" class="nav-link">
-                                            About Us
+                                            关于我们
                                         </router-link>
                                     </li>
 
@@ -156,7 +170,7 @@
                                 </ul>
                             </li>
 
-                            <li class="nav-item">
+                            <!-- <li class="nav-item">
                                 <router-link to="/pricing" class="nav-link">
                                     Pricing
                                 </router-link>
@@ -185,13 +199,7 @@
                                         </router-link>
                                     </li>
                                 </ul>
-                            </li>
-
-                            <li class="nav-item">
-                                <router-link to="/contact" class="nav-link">
-                                    Contact
-                                </router-link>
-                            </li>
+                            </li> -->
                         </ul>
 
                         <!-- <div class="others-options">

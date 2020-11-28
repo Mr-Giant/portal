@@ -6,9 +6,9 @@
         <ServicesTwo />
         <ServicesThree />
         <ReadyToTalk />
-        <Partner />
-        <AppDownload />
-        <AccountCreate />
+        <!-- <Partner /> -->
+        <!-- <AppDownload /> -->
+        <!-- <AccountCreate /> -->
         <Footer />
     </div>
 </template>
@@ -20,9 +20,9 @@ import Services from '../features-one/Services'
 import ServicesTwo from '../features-one/ServicesTwo'
 import ServicesThree from '../features-one/ServicesThree'
 import ReadyToTalk from '../features-one/ReadyToTalk'
-import Partner from '../features-one/Partner'
-import AppDownload from '../features-one/AppDownload'
-import AccountCreate from '../features-one/AccountCreate'
+// import Partner from '../features-one/Partner'
+// import AppDownload from '../features-one/AppDownload'
+// import AccountCreate from '../features-one/AccountCreate'
 import Footer from '../layout/Footer'
 
 export default {
@@ -34,9 +34,9 @@ export default {
         ServicesTwo,
         ServicesThree,
         ReadyToTalk,
-        Partner,
-        AppDownload,
-        AccountCreate,
+        // Partner,
+        // AppDownload,
+        // AccountCreate,
         Footer,
     }
 }

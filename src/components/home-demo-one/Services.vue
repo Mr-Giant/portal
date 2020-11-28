@@ -4,9 +4,9 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <h2>自由职业者，企业家和个体商人</h2>
+                        <router-link to="/features-1" class="read-more-btn"><h2> 数字货币收款系统 </h2></router-link>
                         <div class="bar"></div>
-                        <p></p>
+                        <p>适用于 USBT / BTC / ETH ....</p>
                         <ul class="services-list">
                             <li><span><i class="flaticon-check-mark"></i> 提供免费计划 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 完全符合数据隐私 </span></li>

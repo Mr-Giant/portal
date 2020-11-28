@@ -2,10 +2,10 @@
     <div class="ready-to-talk">
         <div class="container">
             <div class="ready-to-talk-content">
-                <h3>Ready to talk?</h3>
-                <p>Our team is here to answer your question about Vibion</p>
-                <router-link to="/contact" class="btn btn-primary">Contact Us</router-link>
-                <span><a href="#">Or, get started now with a free trial</a></span>
+                <h3>准备好加入我们了吗？</h3>
+                <p>我们的团队在这里回答您有关系统的问题</p>
+                <router-link to="/contact" class="btn btn-primary">联系我门</router-link>
+                <span><a href="#">现在就开始使用</a></span>
             </div>
         </div>
     </div>

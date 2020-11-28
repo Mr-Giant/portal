@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="copyright-area">
-                    <p>Copyright @2020 Vibion. All rights reserved <a href="https://envytheme.com/" target="_blank">EnvyTheme.com</a></p>
+                    <p>Copyright @2020 wellpay. All rights reserved <a href="/" target="_blank">wellpay.com</a></p>
                 </div>
             </div>
 

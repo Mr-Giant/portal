@@ -3,7 +3,7 @@
         <Navbar />
         <PageTitle />
         <ContactArea />
-        <AccountCreate />
+        <!-- <AccountCreate /> -->
         <Footer />
     </div>
 </template>
@@ -12,7 +12,7 @@
 import Navbar from '../layout/Navbar'
 import PageTitle from '../contact/PageTitle'
 import ContactArea from '../contact/ContactArea'
-import AccountCreate from '../contact/AccountCreate'
+// import AccountCreate from '../contact/AccountCreate'
 import Footer from '../layout/Footer'
 
 export default {
@@ -21,7 +21,7 @@ export default {
         Navbar,
         PageTitle,
         ContactArea,
-        AccountCreate,
+        // AccountCreate,
         Footer,
     }
 }
