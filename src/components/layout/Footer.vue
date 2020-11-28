@@ -6,8 +6,11 @@
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget">
                             <div class="logo">
-                                <router-link to="/"><img src="../../assets/images/black-logo.png" alt="logo"></router-link>
-                                <p>Quis ipsum suspendisse ultrices gravida commodo. Risus commodo veliliee vel viverra maecenas accumsan lacus vel facilisis.</p>
+                                <router-link to="/">
+                                    <!-- <img src="../../assets/images/black-logo.png" alt="logo"> -->
+                                    <b><a>WELLPAY</a></b>
+                                </router-link>
+                                <p>wellpay为所有用户提供安全，快捷，原价的服务。我们不断创新，恪守诚信，立志成为同行业领跑者。</p>
                             </div>
 
                             <ul class="social-links">
@@ -24,10 +27,9 @@
                             <h3>公司</h3>
                             <ul class="list">
                                 <li><router-link to="/about-us">关于我们</router-link></li>
-                                <li><router-link to="/#">服务</router-link></li>
-                                <li><router-link to="/features-2">特色</router-link></li>
-                                <li><router-link to="/pricing">我们的定价</router-link></li>
-                                <!-- <li><router-link to="/#">Latest News</router-link></li> -->
+                                <li><router-link to="/features-1">特色产品</router-link></li>
+                                <li><router-link to="/features-2">其他产品</router-link></li>
+                                <li><router-link to="/contact">联系我们</router-link></li>
                             </ul>
                         </div>
                     </div>
@@ -36,11 +38,12 @@
                         <div class="single-footer-widget">
                             <h3>支持</h3>
                             <ul class="list">
-                                <li><router-link to="/faq">常问问题</router-link></li>
+                                <!-- <li><router-link to="/faq">常问问题</router-link></li>
                                 <li><router-link to="/privacy-policy">隐私政策</router-link></li>
-                                <li><router-link to="/terms-condition">条款与协议</router-link></li>
-                                <!-- <li><router-link to="/#">Community</router-link></li> -->
-                                <li><router-link to="/contact">联系我们</router-link></li>
+                                <li><router-link to="/terms-condition">条款与协议</router-link></li> -->
+                                <li><router-link to="/">常问问题</router-link></li>
+                                <li><router-link to="/">隐私政策</router-link></li>
+                                <li><router-link to="/">条款与协议</router-link></li>
                             </ul>
                         </div>
                     </div>
@@ -49,7 +52,6 @@
                         <div class="single-footer-widget">
                             <h3>地址</h3>
                             <ul class="footer-contact-info">
-                                <li><span>位置:</span> 27 Division St, New York, NY 10002, USA</li>
                                 <li><span>邮箱:</span> <a href="mailto:hello@vibion.com">hello@vibion.com</a></li>
                                 <li><span>电话:</span> <a href="tel:+321984754">+ (321) 984 754</a></li>
                                 <li><span>传真:</span> <a href="tel:+12129876543">+1-212-9876543</a></li>

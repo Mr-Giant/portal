@@ -58,7 +58,7 @@
 
                             <li class="nav-item">
                                 <router-link to="/features-1" class="nav-link">
-                                    特色 
+                                    特色产品
                                     <!-- <i class="fas fa-chevron-down"></i> -->
                                 </router-link>
 
@@ -88,7 +88,7 @@
                                 </router-link>
                             </li>
  
-                            <li class="nav-item">
+                            <!-- <li class="nav-item">
                                 <router-link to="/#" class="nav-link">
                                     Pages <i class="fas fa-chevron-down"></i>
                                 </router-link>
@@ -132,11 +132,11 @@
                                         </router-link>
                                     </li>
 
-                                    <!-- <li class="nav-item">
+                                    <li class="nav-item">
                                         <router-link to="/login" class="nav-link">
                                             Login
                                         </router-link>
-                                    </li> -->
+                                    </li>
 
                                     <li class="nav-item">
                                         <router-link to="/register" class="nav-link">
@@ -168,7 +168,7 @@
                                         </router-link>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             <!-- <li class="nav-item">
                                 <router-link to="/pricing" class="nav-link">

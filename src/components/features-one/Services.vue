@@ -4,24 +4,27 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <h2>自由职业者，企业家和个体商人</h2>
+                        <span class="sub-title">快速简便的网上银行</span>
+                        <h2>主要功能</h2>
                         <div class="bar"></div>
-                        <p>自由职业者，企业家和个体商人</p>
+                        <p></p>
 
-                        <ul class="services-list">
-                            <li><span><i class="flaticon-check-mark"></i> 提供免费计划 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> Full data privacy compliance </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 100％透明费用 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 无承诺 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 实时支出概述 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 包括借记万事达卡</span></li>
+                        <ul class="features-list">
+                            <li><span><i class="flaticon-check-mark"></i> 秒到账 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 查询交易明细 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 查询接口 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 后台查询</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 单笔、批量退款</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 退款记录/界面退款</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 历史订单退款</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 定时生成对帐档 </span></li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="../../assets/images/businesses-1.png" alt="image">
+                        <img src="../../assets/images/features-1-1.png" alt="image">
 
                         <div class="circle-img">
                             <img src="../../assets/images/circle.png" alt="image">

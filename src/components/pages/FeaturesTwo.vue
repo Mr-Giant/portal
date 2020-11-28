@@ -6,7 +6,7 @@
         <Services />
         <ServicesTwo />
         <ServicesThree />
-        <ServicesFour />
+        <!-- <ServicesFour /> -->
         <FeatureTwo />
         <ReadyToTalk />
         <!-- <Partner /> -->
@@ -23,7 +23,7 @@ import Features from '../features-two/Features'
 import Services from '../features-two/Services'
 import ServicesTwo from '../features-two/ServicesTwo'
 import ServicesThree from '../features-two/ServicesThree'
-import ServicesFour from '../features-two/ServicesFour'
+// import ServicesFour from '../features-two/ServicesFour'
 import FeatureTwo from '../features-two/FeatureTwo'
 import ReadyToTalk from '../features-two/ReadyToTalk'
 // import Partner from '../features-two/Partner'
@@ -40,7 +40,7 @@ export default {
         Services,
         ServicesTwo,
         ServicesThree,
-        ServicesFour,
+        // ServicesFour,
         FeatureTwo,
         ReadyToTalk,
         // Partner,

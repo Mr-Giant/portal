@@ -11,8 +11,8 @@
                                         <i class="flaticon-settings"></i>
                                     </div>
 
-                                    <h3>Incredible infrastructure</h3>
-                                    <p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                    <h3>风险监控系统</h3>
+                                    <p>专业的安全监控体系，高效避免支付操作过程中的风险，为您的交易安全保驾护航。</p>
                                 </div>
                             </div>
 
@@ -22,8 +22,8 @@
                                         <i class="flaticon-envelope-of-white-paper"></i>
                                     </div>
 
-                                    <h3>Email notifications</h3>
-                                    <p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                    <h3>即时系统监控</h3>
+                                    <p>故障自动回复机制即时系统监控包括对全系统的统一监控报警，并在所有提供服务的服务器中逐一设置监控及自动恢复的程式，保证系统稳定性。全系统7x24小时监控，由两台分属的资料中心专用监控服务器完成，监控服务如右列项目。</p>
                                 </div>
                             </div>
 
@@ -33,28 +33,18 @@
                                         <i class="flaticon-menu"></i>
                                     </div>
 
-                                    <h3>Simple dashboard</h3>
-                                    <p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+                                    <h3>便捷</h3>
+                                    <p>7x24快速结算功能，商家可在短时间内结出资金，以便安排公司资金运作。</p>
                                 </div>
                             </div>
 
-                            <div class="col-lg-12 col-sm-6 col-md-6">
-                                <div class="features-box">
-                                    <div class="icon bg-c679e3">
-                                        <i class="flaticon-info"></i>
-                                    </div>
-
-                                    <h3>Information retrieval</h3>
-                                    <p>Lorem ipsum dolor amet, adipiscing, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-7 col-md-12">
                     <div class="features-image">
-                        <img src="../../assets/images/features-img1.png" alt="image">
+                        <img src="../../assets/images/features-2-4.png" alt="image">
                     </div>
                 </div>
             </div>
