@@ -11,16 +11,9 @@
                 <div class="col-lg-5 col-md-12">
                     <div class="contact-info">
                         <ul>
-                            <!-- <li>
-                                <div class="icon">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                </div>
-                                <span>Address</span>
-                                CA 560 Bush St & 20th Ave, Apt 5 San Francisco, 230909, Canada
-                            </li> -->
                             <li>
-                                <div class="icon">
-                                    <i class="fas"></i>
+                                <div class="icon fa-twitter">
+                                    <a href="#" target="_blank"><i class="fab fa-skype" style="color: white;"></i></a>
                                 </div>
                                 <span>Skype</span>
                                 <a href="#">live:7daae3efabdd1638</a>
@@ -28,7 +21,7 @@
 
                             <li>
                                 <div class="icon">
-                                    <i class="fas"></i>
+                                   <a href="#" target="_blank"><i class="fab fa-telegram" style="color: white;"></i></a>
                                 </div>
                                 <span>Telegram</span>
                                 <a href="#">@wellpay1</a>
