@@ -20,20 +20,18 @@
                             </li> -->
                             <li>
                                 <div class="icon">
-                                    <i class="fas fa-envelope"></i>
+                                    <i class="fas"></i>
                                 </div>
-                                <span>Email</span>
-                                <a href="mailto:hello@vibion.com">hello@vibion.com</a>
-                                <a href="mailto:vibion@gmail.com">vibion@gmail.com</a>
+                                <span>Skype</span>
+                                <a href="#">live:7daae3efabdd1638</a>
                             </li>
 
                             <li>
                                 <div class="icon">
-                                    <i class="fas fa-phone-volume"></i>
+                                    <i class="fas"></i>
                                 </div>
-                                <span>Phone</span>
-                                <a href="tel:+44587154756">+44 587 154756</a>
-                                <a href="tel:+55555514574">+55 5555 14574</a>
+                                <span>Telegram</span>
+                                <a href="#">@wellpay1</a>
                             </li>
                         </ul>
                     </div>

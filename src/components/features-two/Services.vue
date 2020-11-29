@@ -7,7 +7,7 @@
                         <span class="sub-title">快速简便的网上银行</span>
                         <h2>主要功能</h2>
                         <div class="bar"></div>
-                        <p>有关交易、查询、退款、对账等信息。</p>
+                        <!-- <p>有关交易、查询、退款、对账等信息。</p> -->
 
                         <ul class="features-list">
                             <li><span><i class="flaticon-check-mark"></i> 即时到账 </span></li>

@@ -14,17 +14,24 @@
 
                 <div class="overview-content">
                     <div class="content">
-                        <h2>新型技术-USDT</h2>
+                        <span class="sub-title">USDT代收代付系统</span>
+                        <h2>代收代付系统</h2>
                         <div class="bar"></div>
-                        <p>usdt支付致力于解决行业支付问题，以稳定币usdt数字资产作为支付方式，是当前一种新的支付通道工具，可全行业对接。usdt数字资产支付拥有去中心化，记录可查、大额转账、跨境交易等功能。</p>
+                        <!-- <p>usdt支付致力于解决行业支付问题，以稳定币usdt数字资产作为支付方式，是当前一种新的支付通道工具，可全行业对接。usdt数字资产支付拥有去中心化，记录可查、大额转账、跨境交易等功能。</p> -->
 
                         <ul class="services-list">
-                            <li><span><i class="flaticon-check-mark"></i> 用区块链技术解决安全问题。 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 安全支付系统，找承兑商帮你收款。 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 开放式API直接接入平台支付页面。 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 可以随时充提，即时到账。 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 分布式记账C2C交易，可以规避资金冻结风险。</span></li>
-                            <li><span><i class="flaticon-check-mark"></i> USDT和美元1:1价值兑换，完全没有大幅波动。 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC，TRC收款地址生成 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 收款USDT归集 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 收款订单系统(可外接API) </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 到账自动通知(可外接API) </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 付款自动打出(可外接API)</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 转出ERC加速功能 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 流水统计与各数据明细 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC USDT 与TRC USDT互转 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 多角色管理员权限系统 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 掉单补单功能 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 第三方商户账本系统可生成新的API </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 分商户统计报表 </span></li>
                         </ul>
                     </div>
                 </div>

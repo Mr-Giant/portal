@@ -7,7 +7,7 @@
                         <span class="sub-title">快速简便的网上银行</span>
                         <h2>出款</h2>
                         <div class="bar"></div>
-                        <p>满足个人、对公账户所有类型账户资金划转</p>
+                        <!-- <p>满足个人、对公账户所有类型账户资金划转</p> -->
                         <ul class="features-list">
                             <li><span><i class="flaticon-check-mark"></i> 提款API </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 出款卡与订单标记 </span></li>

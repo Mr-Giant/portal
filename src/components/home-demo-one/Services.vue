@@ -4,7 +4,7 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <router-link to="/features-1" class="read-more-btn"><h2> USDT收银收款系统 </h2></router-link>
+                        <router-link to="/features-1" class="read-more-btn"><h2> USDT支付系统 </h2></router-link>
                         <div class="bar"></div>
                         <p>接收、存储和发送虚拟数字货币, 如比特币、以太坊、瑞波币、门罗币等。来自信誉良好、业界领先的加密货币支付提供商的高度安全、可靠和可扩展的钱包解决方案。</p>
                         <ul class="services-list">

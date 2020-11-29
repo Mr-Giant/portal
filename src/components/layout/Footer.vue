@@ -50,11 +50,10 @@
 
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget">
-                            <h3>地址</h3>
+                            <h3>联系</h3>
                             <ul class="footer-contact-info">
-                                <li><span>邮箱:</span> <a href="mailto:hello@vibion.com">hello@vibion.com</a></li>
-                                <li><span>电话:</span> <a href="tel:+321984754">+ (321) 984 754</a></li>
-                                <li><span>传真:</span> <a href="tel:+12129876543">+1-212-9876543</a></li>
+                                <li><span>skype:</span> <a href="#">live:7daae3efabdd1638</a></li>
+                                <li><span>telegram:</span> <a href="#">@wellpay1</a></li>
                             </ul>
                         </div>
                     </div>
@@ -67,7 +66,6 @@
 
             <div class="map-image"><img src="../../assets/images/map.png" alt="map"></div>
         </footer>
-        <!-- End Footer Area -->
 
         <back-to-top bottom="50px" right="50px">
             <div class="go-top">

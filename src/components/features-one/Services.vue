@@ -4,20 +4,22 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <span class="sub-title">快速简便的网上银行</span>
-                        <h2>主要功能</h2>
+                        <span class="sub-title">USDT收付款系统</span>
+                        <h2>收付款系统</h2>
                         <div class="bar"></div>
                         <p></p>
 
                         <ul class="features-list">
-                            <li><span><i class="flaticon-check-mark"></i> 秒到账 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 查询交易明细 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 查询接口 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 后台查询</span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 单笔、批量退款</span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 退款记录/界面退款</span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 历史订单退款</span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 定时生成对帐档 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC，TRC收款地址生成 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 收款USDT归集 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 收款订单系统(可外接API) </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 到账自动通知(可外接API)</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 付款自动打出(可外接API)</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 转出ERC加速功能</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 流水统计与各数据明细</span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC USDT 与TRC USDT互转 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 多角色管理员权限系统 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 掉单补单功能 </span></li>
                         </ul>
                     </div>
                 </div>
