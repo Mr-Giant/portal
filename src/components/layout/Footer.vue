@@ -27,8 +27,8 @@
                             <h3>公司</h3>
                             <ul class="list">
                                 <li><router-link to="/about-us">关于我们</router-link></li>
-                                <li><router-link to="/features-1">特色产品</router-link></li>
-                                <li><router-link to="/features-2">其他产品</router-link></li>
+                                <li><router-link to="/features-1">USDT系统</router-link></li>
+                                <li><router-link to="/features-2">人民币系统</router-link></li>
                                 <li><router-link to="/contact">联系我们</router-link></li>
                             </ul>
                         </div>

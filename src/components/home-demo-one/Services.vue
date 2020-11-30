@@ -4,14 +4,16 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <router-link to="/features-1" class="read-more-btn"><h2> USDT支付系统 </h2></router-link>
+                        <router-link to="/features-1" class="read-more-btn"><h2> 行业领先-USDT收付款及代收系统 </h2></router-link>
                         <div class="bar"></div>
-                        <p>接收、存储和发送虚拟数字货币, 如比特币、以太坊、瑞波币、门罗币等。来自信誉良好、业界领先的加密货币支付提供商的高度安全、可靠和可扩展的钱包解决方案。</p>
+                        <p>USDT是基于区块链技术锚定美元的数字货币,具有匿名、安全等特点,被全球认可,可在全球各大数字币交易所兑换成为法定火币,并在美国银行提供1USDT=1USD的刚性兑换。</p>
                         <ul class="services-list">
-                            <li><span><i class="flaticon-check-mark"></i> 高度安全 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 可靠 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 可扩展 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 实时支出概述 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 全自动收款、付款及通知 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 行业规范API,可扩展业务 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC、TRC双版本支持 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 没有上限的收款钱包数量 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 私钥离线资产安全 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 流水统计报表齐全 </span></li>
                         </ul>
                     </div>
                 </div>

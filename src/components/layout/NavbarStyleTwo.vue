@@ -56,7 +56,7 @@
 
                             <li class="nav-item">
                                 <router-link to="/features-1" class="nav-link">
-                                    特色产品
+                                    USDT系统
                                     <!-- <i class="fas fa-chevron-down"></i> -->
                                 </router-link>
 
@@ -77,7 +77,7 @@
 
                             <li class="nav-item">
                                 <router-link to="/features-2" class="nav-link">
-                                    其他产品
+                                    人民币系统
                                 </router-link>
                             </li>
 

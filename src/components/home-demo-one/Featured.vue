@@ -8,8 +8,8 @@
                             <div class="icon color-fb7756">
                                 <i class="flaticon-piggy-bank"></i>
                             </div>
-                            <h3>系统稳定，支持轮循</h3>
-                            <p>后台可添加多个收款账户， 自动轮循，减小被封几率， 做到单日金额不限额。</p>
+                            <h3>系统稳定</h3>
+                            <p>WELLPAY系统经过长时间实用考验,系统稳定性能优良。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>
@@ -19,8 +19,8 @@
                             <div class="icon color-facd60">
                                 <i class="flaticon-data-encryption"></i>
                             </div>
-                            <h3>好友分销,订单返佣</h3>
-                            <p>可邀请下级好友开通账户， 享受订单返佣</p>
+                            <h3>行业领先</h3>
+                            <p>WELLPAY切入行业痛点,业内领先推出USDT收付款系统,并投入实用一年有余。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>
@@ -30,8 +30,8 @@
                             <div class="icon color-1ac0c6">
                                 <i class="flaticon-wallet"></i>
                             </div>
-                            <h3>实时通知，自动回调</h3>
-                            <p> 每笔订单都会实时通知，让您实时掌握您的资金动向 </p>
+                            <h3>售后优良</h3>
+                            <p> 所有系统提供7X24小时维护，并可以根据客户需要提供性能升级功能扩展。 </p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>
@@ -41,8 +41,8 @@
                             <div class="icon">
                                 <i class="flaticon-shield"></i>
                             </div>
-                            <h3>安全又可靠</h3>
-                            <p>提供专业的接入文档，可在线协助，解答问题帮助您完成搭建。</p>
+                            <h3>安全可靠</h3>
+                            <p>WELLPAY将客户的资产安全放在首位,财务、资金客户独立掌握。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>

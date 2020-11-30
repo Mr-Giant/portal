@@ -7,7 +7,11 @@
                         <!-- <img src="../../assets/images/logo.png" alt="image"> -->
                         <!-- <img src="../../assets/images/black-logo.png" alt="image"> -->
                         <!-- <a style="color: #fff;font-size: 30px;"><b>WELLPAY</b></a> -->
-                        <a style="color: #000;font-size: 30px;"><b>WELLPAY</b></a>
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                    <a style="font-size: 30px;"><b>WELLPAY</b></a>
+                            </li>
+                        </ul>
                     </router-link>
 
                     <b-navbar-toggle target="navbarSupportedContent">
@@ -58,7 +62,7 @@
 
                             <li class="nav-item">
                                 <router-link to="/features-1" class="nav-link">
-                                    特色产品
+                                    USDT系统
                                     <!-- <i class="fas fa-chevron-down"></i> -->
                                 </router-link>
 
@@ -78,7 +82,7 @@
                             </li>
                              <li class="nav-item">
                                 <router-link to="/features-2" class="nav-link">
-                                    其他产品
+                                    人民币系统
                                 </router-link>
                             </li>
 
