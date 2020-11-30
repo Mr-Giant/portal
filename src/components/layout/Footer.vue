@@ -29,7 +29,7 @@
                                 <li><router-link to="/about-us">首页</router-link></li>
                                 <li><router-link to="/USDTRP">USDT收付系统</router-link></li>
                                 <li><router-link to="/USDTRP">USDT钱包系统</router-link></li>
-                                <li><router-link to="/RMB">RMB系统</router-link></li>
+                                <li><router-link to="/RMB">RMB收付系统</router-link></li>
                                 <li><router-link to="/contact">联系我们</router-link></li>
                             </ul>
                         </div>

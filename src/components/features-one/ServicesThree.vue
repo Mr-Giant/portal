@@ -4,8 +4,8 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                       <span class="sub-title"> USDT支付系统 </span>
-                        <h2> 特点</h2>
+                       <span class="sub-title"> USDT收付系统 </span>
+                        <h2>特点</h2>
                         <div class="bar"></div>
                         <!-- <p>所有营运服务器皆安装即时安全入侵侦测系统与报警软体，当服务器检测到被攻击等异常情况时，将立即遮罩进攻源，并即时以手机短信通知相关系统维护人员。</p> -->
                         <ul class="features-list">
@@ -25,7 +25,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="../../assets/images/features-2-3.jpg" alt="image">
+                        <img src="../../assets/images/features-2-7.png" alt="image">
 
                         <div class="circle-img">
                             <img src="../../assets/images/circle.png" alt="image">

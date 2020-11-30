@@ -4,7 +4,7 @@
             <div class="overview-box">
                 <div class="overview-image">
                     <div class="image">
-                        <img src="../../assets/images/features-2-2.jpg" alt="image">
+                        <img src="../../assets/images/features-1-6.png" alt="image">
 
                         <div class="circle-img">
                             <img src="../../assets/images/circle.png" alt="image">

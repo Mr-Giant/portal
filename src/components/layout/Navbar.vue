@@ -42,7 +42,7 @@
 
                              <li class="nav-item">
                                 <router-link to="/RMB" class="nav-link">
-                                    RMB系统 
+                                    RMB收付系统
                                 </router-link>
                             </li>
 

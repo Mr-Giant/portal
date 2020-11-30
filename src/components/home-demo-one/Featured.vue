@@ -21,7 +21,7 @@
                                 <i class="flaticon-data-encryption"></i>
                             </div>
                             <h3>USDT钱包系统</h3>
-                            <p>WELLPAYS切入行业痛点,业内领先推出USDT收付款系统,并投入实用一年有余。</p>
+                            <p>不同于常见的数字货币钱包系统，wellpay-USDT钱包使用特种加密,保持所有钱包离线，密钥二次特化加密离线保存，资金安全。</p>
                             <router-link to="/USDTWallet" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>

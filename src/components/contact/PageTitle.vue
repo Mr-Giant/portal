@@ -1,5 +1,5 @@
 <template>
-    <div class="page-title-area item-bg2">
+    <div class="page-title-area item-bg4">
         <div class="container">
             <div class="page-title-content">
                 <h2>联系我们</h2>
