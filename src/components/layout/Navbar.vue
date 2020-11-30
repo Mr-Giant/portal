@@ -6,10 +6,10 @@
                     <router-link class="navbar-brand" to="/">
                         <!-- <img src="../../assets/images/logo.png" alt="image"> -->
                         <!-- <img src="../../assets/images/black-logo.png" alt="image"> -->
-                        <!-- <a style="color: #fff;font-size: 30px;"><b>WELLPAY</b></a> -->
+                        <!-- <a style="color: #fff;font-size: 30px;"><b>WELLPAYS</b></a> -->
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
-                                    <a style="font-size: 30px;"><b>WELLPAY</b></a>
+                                    <a style="font-size: 30px;"><b>WELLPAYS</b></a>
                             </li>
                         </ul>
                     </router-link>
@@ -55,34 +55,20 @@
                             </li>
 
                             <li class="nav-item">
-                                <router-link to="/about-us" class="nav-link">
-                                    关于我们
-                                </router-link>
-                            </li>
-
-                            <li class="nav-item">
                                 <router-link to="/features-1" class="nav-link">
-                                    USDT系统
-                                    <!-- <i class="fas fa-chevron-down"></i> -->
+                                    USDT收付系统
                                 </router-link>
-
-                                <!-- <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <router-link to="/features-1" class="nav-link">
-                                            Features Style One
-                                        </router-link>
-                                    </li>
-
-                                    <li class="nav-item">
-                                        <router-link to="/features-2" class="nav-link">
-                                            Features Style Two
-                                        </router-link>
-                                    </li>
-                                </ul> -->
                             </li>
+                            
+                            <li class="nav-item">
+                                <router-link to="/about-us" class="nav-link">
+                                    USDT钱包系统
+                                </router-link>
+                            </li>
+
                              <li class="nav-item">
                                 <router-link to="/features-2" class="nav-link">
-                                    人民币系统
+                                    RMB系统 
                                 </router-link>
                             </li>
 

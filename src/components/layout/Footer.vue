@@ -8,9 +8,9 @@
                             <div class="logo">
                                 <router-link to="/">
                                     <!-- <img src="../../assets/images/black-logo.png" alt="logo"> -->
-                                    <b><a>WELLPAY</a></b>
+                                    <b><a>WELLPAYS</a></b>
                                 </router-link>
-                                <p>wellpay为所有用户提供安全，快捷，原价的服务。我们不断创新，恪守诚信，立志成为同行业领跑者。</p>
+                                <p>wellpays为所有用户提供安全，快捷，原价的服务。我们不断创新，恪守诚信，立志成为同行业领跑者。</p>
                             </div>
 
                             <ul class="social-links">
@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="copyright-area">
-                    <p>Copyright @2020 wellpay. All rights reserved <a href="/" target="_blank">wellpay.com</a></p>
+                    <p>Copyright @2020 wellpays. All rights reserved <a href="/" target="_blank">wellpays.net</a></p>
                 </div>
             </div>
 

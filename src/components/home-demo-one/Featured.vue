@@ -9,7 +9,7 @@
                                 <i class="flaticon-piggy-bank"></i>
                             </div>
                             <h3>系统稳定</h3>
-                            <p>WELLPAY系统经过长时间实用考验,系统稳定性能优良。</p>
+                            <p>WELLPAYS系统经过长时间实用考验,系统稳定性能优良。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>
@@ -20,7 +20,7 @@
                                 <i class="flaticon-data-encryption"></i>
                             </div>
                             <h3>行业领先</h3>
-                            <p>WELLPAY切入行业痛点,业内领先推出USDT收付款系统,并投入实用一年有余。</p>
+                            <p>WELLPAYS切入行业痛点,业内领先推出USDT收付款系统,并投入实用一年有余。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                                 <i class="flaticon-shield"></i>
                             </div>
                             <h3>安全可靠</h3>
-                            <p>WELLPAY将客户的资产安全放在首位,财务、资金客户独立掌握。</p>
+                            <p>WELLPAYS将客户的资产安全放在首位,财务、资金客户独立掌握。</p>
                             <router-link to="/features-1" class="read-more-btn">了解更多</router-link>
                         </div>
                     </div>

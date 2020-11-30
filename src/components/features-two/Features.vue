@@ -4,7 +4,7 @@
             <div class="section-title">
                 <h2>我们的特色</h2>
                 <div class="bar"></div>
-                <p>轻松操作WELLPAY在线系统，自动收款、大量转帐就是这么简单便利!</p>
+                <p>轻松操作WELLPAYS在线系统，自动收款、大量转帐就是这么简单便利!</p>
             </div>
 
             <div class="row">

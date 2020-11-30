@@ -5,7 +5,7 @@
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <router-link class="navbar-brand" to="/">
                         <!-- <img src="../../assets/images/black-logo.png" alt="image"> -->
-                        <a style="color: #000;font-size: 30px;"><b>WELLPAY</b></a>
+                        <a style="color: #000;font-size: 30px;"><b>WELLPAYS</b></a>
                     </router-link>
 
                     <b-navbar-toggle target="navbarSupportedContent">
