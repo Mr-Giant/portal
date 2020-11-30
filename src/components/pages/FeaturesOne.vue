@@ -5,6 +5,7 @@
         <Services />
         <ServicesTwo />
         <ServicesThree />
+        <!-- <ServicesFour/> -->
         <ReadyToTalk />
         <!-- <Partner /> -->
         <!-- <AppDownload /> -->
@@ -19,6 +20,7 @@ import PageTitle from '../features-one/PageTitle'
 import Services from '../features-one/Services'
 import ServicesTwo from '../features-one/ServicesTwo'
 import ServicesThree from '../features-one/ServicesThree'
+// import ServicesFour from '../features-one/ServicesFour'
 import ReadyToTalk from '../features-one/ReadyToTalk'
 // import Partner from '../features-one/Partner'
 // import AppDownload from '../features-one/AppDownload'
@@ -33,6 +35,7 @@ export default {
         Services,
         ServicesTwo,
         ServicesThree,
+        // ServicesFour,
         ReadyToTalk,
         // Partner,
         // AppDownload,
