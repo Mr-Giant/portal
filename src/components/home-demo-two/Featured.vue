@@ -12,7 +12,7 @@
                             <h3>Transparent Pricing</h3>
                             <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                            <router-link to="/USDTRP" class="read-more-btn">Read More</router-link>
                         </div>
                     </div>
 
@@ -25,7 +25,7 @@
                             <h3>Fully Encrypted</h3>
                             <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                            <router-link to="/USDTRP" class="read-more-btn">Read More</router-link>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@
                             <h3>Instant Cashout</h3>
                             <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                            <router-link to="/USDTRP" class="read-more-btn">Read More</router-link>
                         </div>
                     </div>
 
@@ -51,7 +51,7 @@
                             <h3>Safe and Secure</h3>
                             <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                            <router-link to="/USDTRP" class="read-more-btn">Read More</router-link>
                         </div>
                     </div>
                 </div>

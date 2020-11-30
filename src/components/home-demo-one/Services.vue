@@ -4,7 +4,7 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content left-content">
-                        <router-link to="/features-1" class="read-more-btn"><h2> 行业领先-USDT收付款及代收系统 </h2></router-link>
+                        <router-link to="/USDTRP" class="read-more-btn"><h2> 行业领先-USDT收付款及代收系统 </h2></router-link>
                         <div class="bar"></div>
                         <p>USDT是基于区块链技术锚定美元的数字货币,具有匿名、安全等特点,被全球认可,可在全球各大数字币交易所兑换成为法定火币,并在美国银行提供1USDT=1USD的刚性兑换。</p>
                         <ul class="services-list">

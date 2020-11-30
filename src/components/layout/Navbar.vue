@@ -29,19 +29,19 @@
                             </li>
 
                             <li class="nav-item">
-                                <router-link to="/features-1" class="nav-link">
+                                <router-link to="/USDTRP" class="nav-link">
                                     USDT收付系统
                                 </router-link>
                             </li>
                             
                             <li class="nav-item">
-                                <router-link to="/features-3" class="nav-link">
+                                <router-link to="/USDTWallet" class="nav-link">
                                     USDT钱包系统
                                 </router-link>
                             </li>
 
                              <li class="nav-item">
-                                <router-link to="/features-2" class="nav-link">
+                                <router-link to="/RMB" class="nav-link">
                                     RMB系统 
                                 </router-link>
                             </li>
