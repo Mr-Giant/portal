@@ -2,12 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle />
-        <Features />
+        <!-- <Features /> -->
         <Services />
         <ServicesTwo />
         <ServicesThree />
         <!-- <ServicesFour /> -->
-        <FeatureTwo />
+        <!-- <FeatureTwo /> -->
         <ReadyToTalk />
         <!-- <Partner /> -->
         <!-- <AppDownload /> -->
@@ -17,14 +17,14 @@
 </template>
 
 <script>
-import NavbarStyleTwo from '../layout/NavbarStyleTwo'
+import NavbarStyleTwo from '../layout/Navbar'
 import PageTitle from '../features-two/PageTitle'
-import Features from '../features-two/Features'
+// import Features from '../features-two/Features'
 import Services from '../features-two/Services'
 import ServicesTwo from '../features-two/ServicesTwo'
 import ServicesThree from '../features-two/ServicesThree'
 // import ServicesFour from '../features-two/ServicesFour'
-import FeatureTwo from '../features-two/FeatureTwo'
+// import FeatureTwo from '../features-two/FeatureTwo'
 import ReadyToTalk from '../features-two/ReadyToTalk'
 // import Partner from '../features-two/Partner'
 // import AppDownload from '../features-two/AppDownload'
@@ -36,12 +36,12 @@ export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        Features,
+        // Features,
         Services,
         ServicesTwo,
         ServicesThree,
         // ServicesFour,
-        FeatureTwo,
+        // FeatureTwo,
         ReadyToTalk,
         // Partner,
         // AppDownload,

@@ -8,6 +8,7 @@ import HomeDemoOne from './components/pages/HomeDemoOne'
 import AboutUs from './components/pages/AboutUs'
 import FeaturesOne from './components/pages/FeaturesOne'
 import FeaturesTwo from './components/pages/FeaturesTwo'
+import FeaturesThree from './components/pages/FeaturesThree'
 // import Team from './components/pages/Team'
 // import Pricing from './components/pages/Pricing'
 // import Login from './components/pages/Login'
@@ -36,6 +37,7 @@ export const router = new VueRouter({
         {path: '/about-us', component: AboutUs},
         {path: '/features-1', component: FeaturesOne},
         {path: '/features-2', component: FeaturesTwo},
+        {path: '/features-3', component: FeaturesThree},
         // {path: '/team', component: Team},
         // {path: '/pricing', component: Pricing},
         // {path: '/login', component: Login},

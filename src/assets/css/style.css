@@ -1568,6 +1568,10 @@ Featured Boxes Area CSS
   border-right: 1px solid #eeeeee;
 }
 
+.featured-boxes-inner .col-lg-4 {
+  border-right: 1px solid #eeeeee;
+}
+
 .featured-boxes-inner .col-lg-3:last-child {
   border-right: none;
 }
