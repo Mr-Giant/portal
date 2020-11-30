@@ -26,9 +26,10 @@
                         <div class="single-footer-widget pl-5">
                             <h3>公司</h3>
                             <ul class="list">
-                                <li><router-link to="/about-us">关于我们</router-link></li>
-                                <li><router-link to="/USDTRP">USDT系统</router-link></li>
-                                <li><router-link to="/RMB">人民币系统</router-link></li>
+                                <li><router-link to="/about-us">首页</router-link></li>
+                                <li><router-link to="/USDTRP">USDT收付系统</router-link></li>
+                                <li><router-link to="/USDTRP">USDT钱包系统</router-link></li>
+                                <li><router-link to="/RMB">RMB系统</router-link></li>
                                 <li><router-link to="/contact">联系我们</router-link></li>
                             </ul>
                         </div>
@@ -38,9 +39,6 @@
                         <div class="single-footer-widget">
                             <h3>支持</h3>
                             <ul class="list">
-                                <!-- <li><router-link to="/faq">常问问题</router-link></li>
-                                <li><router-link to="/privacy-policy">隐私政策</router-link></li>
-                                <li><router-link to="/terms-condition">条款与协议</router-link></li> -->
                                 <li><router-link to="/">常问问题</router-link></li>
                                 <li><router-link to="/">隐私政策</router-link></li>
                                 <li><router-link to="/">条款与协议</router-link></li>
