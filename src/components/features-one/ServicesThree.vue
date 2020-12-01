@@ -9,9 +9,9 @@
                         <div class="bar"></div>
                         <!-- <p>所有营运服务器皆安装即时安全入侵侦测系统与报警软体，当服务器检测到被攻击等异常情况时，将立即遮罩进攻源，并即时以手机短信通知相关系统维护人员。</p> -->
                         <ul class="features-list">
-                            <li><span><i class="flaticon-check-mark"></i> 使用方独立掌握密钥,钱包资金自己掌控 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 使用方独立掌握密钥，钱包资金自己掌控 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 收款钱包私钥离线，无法被盗取 </span></li>
-                            <li><span><i class="flaticon-check-mark"></i> 财务钱包与提款钱包分离,财务安全 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 财务钱包与提款钱包分离，财务安全 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> ERC与TRC多种USDT收付款，并支持自动转换 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 收付款流程行业规范，并提供API对接指导 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 收付款自动执行快速到账，自动通知 </span></li>

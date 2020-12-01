@@ -4047,6 +4047,11 @@ Page Title Area CSS
             image: url(images/main-banner2.jpg);
         }
     }
+    &.item-bg5 {
+        background: {
+            image: url(images/page-title-bg4.png);
+        }
+    }
 }
 .page-title-content {
     text-align: center;

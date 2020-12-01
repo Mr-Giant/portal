@@ -5,7 +5,7 @@
         <!-- <Features /> -->
         <Services />
         <ServicesTwo />
-        <ServicesThree />
+        <!-- <ServicesThree /> -->
         <!-- <ServicesFour /> -->
         <!-- <FeatureTwo /> -->
         <ReadyToTalk />
@@ -22,7 +22,7 @@ import PageTitle from '../features-two/PageTitle'
 // import Features from '../features-two/Features'
 import Services from '../features-two/Services'
 import ServicesTwo from '../features-two/ServicesTwo'
-import ServicesThree from '../features-two/ServicesThree'
+// import ServicesThree from '../features-two/ServicesThree'
 // import ServicesFour from '../features-two/ServicesFour'
 // import FeatureTwo from '../features-two/FeatureTwo'
 import ReadyToTalk from '../features-two/ReadyToTalk'
@@ -39,7 +39,7 @@ export default {
         // Features,
         Services,
         ServicesTwo,
-        ServicesThree,
+        // ServicesThree,
         // ServicesFour,
         // FeatureTwo,
         ReadyToTalk,

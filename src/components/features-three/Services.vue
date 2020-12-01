@@ -10,10 +10,12 @@
                         <p></p>
 
                         <ul class="features-list">
-                            <li><span><i class="flaticon-check-mark"></i> ERCUSDT转入转出 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> ERC20-USDT转入转出 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> ETH转入转出 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 2FA绑定手机安全认证 </span></li>
                             <li><span><i class="flaticon-check-mark"></i> 交易加速 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 跟踪转账状态 </span></li>
+                            <li><span><i class="flaticon-check-mark"></i> 转账旷工费显示 </span></li>
                         </ul>
                     </div>
                 </div>
