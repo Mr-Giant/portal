@@ -16,7 +16,7 @@
                                     <a href="#" target="_blank"><i class="fab fa-skype" style="color: white;"></i></a>
                                 </div>
                                 <span>Skype</span>
-                                <a href="#">live:7daae3efabdd1638</a>
+                                <a href="skype:live:7daae3efabdd1638?chat">live:7daae3efabdd1638</a>
                             </li>
 
                             <li>
@@ -24,7 +24,7 @@
                                    <a href="#" target="_blank"><i class="fab fa-telegram" style="color: white;"></i></a>
                                 </div>
                                 <span>Telegram</span>
-                                <a href="#">@wellpay1</a>
+                                <a href="tg://resolve?domain=@wellpay1">@wellpay1</a>
                             </li>
                         </ul>
                     </div>

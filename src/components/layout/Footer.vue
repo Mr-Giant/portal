@@ -13,12 +13,12 @@
                                 <p>wellpays为所有用户提供安全，快捷，原价的服务。我们不断创新，恪守诚信，立志成为同行业领跑者。</p>
                             </div>
 
-                            <ul class="social-links">
-                                <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                            </ul>
+                             <ul class="social-links">
+                                <li><a href="https://telegram.org/" target="_blank"><i class="fab fa-telegram"></i></a></li>
+                                <li><a href="https://www.skype.com/" target="_blank"><i class="fab fa-skype"></i></a></li>
+                                <!-- <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li> -->
+                            </ul> 
                         </div>
                     </div>
 
@@ -50,8 +50,9 @@
                         <div class="single-footer-widget">
                             <h3>联系</h3>
                             <ul class="footer-contact-info">
-                                <li><span>skype:</span> <a href="#">live:7daae3efabdd1638</a></li>
-                                <li><span>telegram:</span> <a href="#">@wellpay1</a></li>
+                                
+                                <li><span>skype:</span> <a href="skype:live:7daae3efabdd1638?chat">live:7daae3efabdd1638</a></li>
+                                <li><span>telegram:</span> <a href="tg://resolve?domain=@wellpay1">@wellpay1</a></li>
                             </ul>
                         </div>
                     </div>
